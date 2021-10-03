@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FabianDudda
-- 👀 I’m interested in webdev and building startups.
+- 👀 I’m interested in webdev, gamedev and building startups.
 - 🌱 I’m currently learning JavaScript and PHP.
 - 📫 How to reach me: fabian.dudda@hotmail.de
 
