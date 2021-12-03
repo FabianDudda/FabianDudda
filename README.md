@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FabianDudda
-- 👀 I’m interested in webdev, gamedev and building startups.
-- 🌱 I’m currently learning JavaScript and PHP.
+- 👀 I’m interested in coding and building projects.
+- 🌱 I’m currently learning React, Bootstrap & Firebase.
 - 📫 How to reach me: fabian.dudda@hotmail.de
 
 <!---
