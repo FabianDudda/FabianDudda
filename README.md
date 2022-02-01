@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FabianDudda
-- 👀 I’m interested in coding and building projects.
-- 🌱 I’m currently learning React, Bootstrap & Firebase.
+- 👀 I’m interested in coding and building start-ups.
+- 🌱 I’m currently studying media informatics at the Westfälische Hochschule Gelsenkirchen.
 - 📫 How to reach me: fabian.dudda@hotmail.de
 
 <!---
