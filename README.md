@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and building start-ups.
 - 🌱 I’m currently studying media informatics at the Westfälische Hochschule Gelsenkirchen.
 - 📫 How to reach me: fabian.dudda@hotmail.de
-- 🚀 TechStack: HTML, CSS (Vanilla, Bootstrap, Tailwind), JavaScript (Vanilla, React, NextJS), PHP, Firebase
+- 🚀 TechStack: HTML, CSS (Vanilla, Bootstrap, Tailwind), JavaScript (Vanilla, React, NextJS), PHP, Firebase, MySQL, GraphQL
 - 👨🏽‍💻 Currently learning: Web3, Solidity, OpenZeppelin, Polygon
 
 <!---
