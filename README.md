@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FabianDudda
-- 👀 I’m interested in coding and building start-ups.
+- 👀 I’m interested in building start-ups.
 - 🌱 I’m currently studying media informatics at the Westfälische Hochschule Gelsenkirchen.
 - 📫 How to reach me: fabian.dudda@hotmail.de
 - 🚀 TechStack: React/NextJS, Bootstrap, TailwindCSS, PHP, MongoDB, Firebase, MySQL, GraphQL
